@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1181
+slug  : the-indrawing
+seal  : d0bb88e070253d3790d4e5cf622ab82dc8fc3dc175b78660da2527d95feeab37
+prev  : d8cb5b6e313bba5ea7e1d9fabefc781080ecf1ef8191390b2aad3cc87ffbfb4f
+link  : ca9b8fd644a98720d7cf0f3162e28f55f52897f87a91a934b4d4a63b5b897b1c
+head  : ca9b8fd644a98720d7cf0f3162e28f55f52897f87a91a934b4d4a63b5b897b1c
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
